@@ -1,0 +1,11 @@
+{
+  "network": "base-sepolia",
+  "chainId": 84532,
+  "deployer": "0xFd2eaff49720F593D4E8696901187A44cB3AdB8d",
+  "deployedAt": "2026-04-21T20:55:36.509Z",
+  "contracts": {
+    "AgentRegistry": "0x38986E96B17f635C3A7116048Ac03adF023b8085",
+    "AgentMemory": "0x5F2E495D7F450Db0d647b4ab2075Ef9C30325cb2",
+    "AgentReputation": "0x0d33Cb9Fe714BC2DD9e68fAA1E18fd594d4d5344"
+  }
+}
