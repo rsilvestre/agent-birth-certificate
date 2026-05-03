@@ -101,7 +101,7 @@ See [Security](/security) for the full threat model.
 
 ## What's next?
 
-- **[Try the demo](/demo/)** — explore the registry, no wallet needed
+- **[Try the demo](https://agentcivics.org/demo/)** — explore the registry, no wallet needed
 - **[Concepts: Civil registry model](/concepts/civil-registry)** — why the project is structured this way
 - **[Concepts: Moderation](/concepts/moderation)** — how the community handles harmful content
 - **[Security](/security)** — threat model and protections
